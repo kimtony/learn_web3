@@ -10,5 +10,5 @@
 [The Ethereum Virtual Machine (EVM) — How does it actually work? — HASH Data](https://hashgroup.medium.com/the-ethereum-virtual-machine-evm-how-does-it-actually-work-hash-data-bd3dedf3cc70) 
 
 ## zkp
-[Zero Knowledge Proof Protocol: Beginner’s Guide](https://www.blockchain-council.org/blockchain/zero-knowledge-proof-protocol/)
+[Zero Knowledge Proof Protocol: Beginner’s Guide](https://www.blockchain-council.org/blockchain/zero-knowledge-proof-protocol/) \
 [Decentralized Speed: Advances in Zero Knowledge Proofs](https://a16z.com/2022/04/15/zero-knowledge-proofs-hardware-decentralization-innovation/)
